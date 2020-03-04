@@ -1,0 +1,12 @@
+werkzeug
+Flask
+Flask-SQLAlchemy
+Flask-WTF
+flask-bootstrap
+flask-paranoid
+marshmallow-sqlalchemy
+flask_marshmallow
+flask-login
+marshmallow
+mysqlclient
+python-dotenv
